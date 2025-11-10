@@ -2,8 +2,9 @@
 
 A modern full-stack web application built with **React (Vite + Chakra UI)** for the frontend and **PHP + MySQL** for the backend.  
 This project includes user authentication, product management, banners, a shopping cart, checkout with Stripe payments, and an admin dashboard.
+Home Page  
+![Home Page](https://github.com/swachchhakh/smartlock-react-php/blob/97f09784571460476f419d0e04dbede64664249a/assets/Home.png)
 
----
 
 ## Features
 
