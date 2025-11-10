@@ -60,4 +60,7 @@ Email Notification on Order
 
 git clone https://github.com/swachchhakh/smartlock-react-php.git
 cd smartlock-react-php
+npm install
+npm run dev
+
 
