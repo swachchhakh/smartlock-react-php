@@ -24,6 +24,17 @@ Cart Page
 Stripe Integration 
 ![Stripe](https://github.com/swachchhakh/smartlock-react-php/blob/9af083eb47d21ac54ac4c21ca966d38791577b5d/assets/Stripe.png)
 
+Checkout
+![Checkout](https://github.com/swachchhakh/smartlock-react-php/blob/e33bd8ed2c6d96046933536e5d00f533341ed0d0/assets/checkout.png)
+
+
+Admin Operatiions
+![OP1](https://github.com/swachchhakh/smartlock-react-php/blob/e33bd8ed2c6d96046933536e5d00f533341ed0d0/assets/Screenshot%202025-11-10%20at%205.57.47%E2%80%AFpm.png)
+
+Email Notification on Order
+
+![OP2](https://github.com/swachchhakh/smartlock-react-php/blob/e33bd8ed2c6d96046933536e5d00f533341ed0d0/assets/Email.png)
+
 
 
 
