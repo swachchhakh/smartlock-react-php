@@ -18,6 +18,12 @@ Home Page
 8. REST API using PHP + MySQL  
 
 
+Cart Page  
+![Cart Page](https://github.com/swachchhakh/smartlock-react-php/blob/9af083eb47d21ac54ac4c21ca966d38791577b5d/assets/Cart.png)
+
+Stripe Integration 
+![Stripe](https://github.com/swachchhakh/smartlock-react-php/blob/9af083eb47d21ac54ac4c21ca966d38791577b5d/assets/Stripe.png)
+
 
 
 
