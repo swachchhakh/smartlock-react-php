@@ -1,31 +1,28 @@
-# 🛍️ SmartLock React + PHP E-Commerce App
+# SmartLock React + PHP E-Commerce App
 
 A modern full-stack web application built with **React (Vite + Chakra UI)** for the frontend and **PHP + MySQL** for the backend.  
 This project includes user authentication, product management, banners, a shopping cart, checkout with Stripe payments, and an admin dashboard.
 
 ---
 
-## 🌟 Features
+## Features
 
-✅ User Registration & Login  
-✅ Admin & User Role-based Access  
-✅ Manage Products, Shops, and Banners  
-✅ Add to Cart & Persistent Cart  
-✅ Stripe Payment Integration  
-✅ Order Management (with order items)  
-✅ Responsive UI built using Chakra UI  
-✅ REST API using PHP + MySQL  
-
----
-
-## App Preview
-
-### Home Page  
+1. User Registration & Login  
+2. Admin & User Role-based Access  
+3. Manage Products, Shops, and Banners  
+4. Add to Cart & Persistent Cart  
+5. Stripe Payment Integration  
+6. Order Management (with order items)  
+7. Responsive UI built using Chakra UI  
+8. REST API using PHP + MySQL  
 
 
-> *(You can replace these image links with your actual screenshots once you push them to GitHub!)*
 
----
+
+
+
+
+
 
 ## Tech Stack
 
@@ -40,7 +37,7 @@ This project includes user authentication, product management, banners, a shoppi
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 
 git clone https://github.com/swachchhakh/smartlock-react-php.git
